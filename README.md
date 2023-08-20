@@ -15,8 +15,5 @@
 - 📫 How to reach me: Message me on Discord: cbzc 
 - 😄 Pronouns: he/him
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=intexpression&theme=highcontrast)](https://git.io/streak-stats)
-
-
 
 ![](https://komarev.com/ghpvc/?username=intexpression)
