@@ -8,6 +8,4 @@
 - 📫 How to reach me: Message me on Discord: cbzc 
 - 😄 Pronouns: he/him 
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=intexpression)  
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=intexpression&theme=dark)](https://git.io/streak-stats)
