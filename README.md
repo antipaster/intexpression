@@ -16,4 +16,9 @@
 - 😄 Pronouns: he/him
 
 
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,csharp,kotlin,mysql,lua&theme=nautilus)]
+
 ![](https://komarev.com/ghpvc/?username=intexpression)
+
