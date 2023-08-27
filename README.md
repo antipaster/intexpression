@@ -18,7 +18,7 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,csharp,kotlin,mysql,lua&theme=nautilus)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,csharp,kotlin,mysql,lua&theme=darkmode)
 
 ![](https://komarev.com/ghpvc/?username=intexpression)
 
