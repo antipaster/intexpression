@@ -2,8 +2,6 @@
 ### Hi there 👋, I am Intexpression
 
 
-<h3>🌎 Bio</h3>
-
 ```javascript
 class Intexpression {
   skills = ["Data Structures", "Ui's", "Databases", "REST APIs"];
