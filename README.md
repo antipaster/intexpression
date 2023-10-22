@@ -15,8 +15,9 @@
 - 📫 How to reach me: Message me on Discord: cbzc 
 - 😄 Pronouns: he/him
 
+<a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://spotify-readme-zeta-mocha.vercel.app/api" alt="Current Spotify Song">
-
+</a>
 
 ![](https://komarev.com/ghpvc/?username=intexpression)
 [![wakatime](https://wakatime.com/badge/user/38b40c14-77d7-4b31-b4f2-cc058e4edc6f.svg)](https://wakatime.com)
