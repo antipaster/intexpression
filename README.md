@@ -16,7 +16,7 @@
 - 😄 Pronouns: he/him
 
 
-  <img src="https://spotify-readme-zeta-mocha.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-readme-zeta-mocha.vercel.app/api?theme=dark" alt="Current Spotify Song">
 
 
 ![](https://komarev.com/ghpvc/?username=intexpression)
