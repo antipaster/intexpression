@@ -6,9 +6,6 @@
 
 
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,csharp,kotlin,mysql,lua&theme=darkmode)
-
-
 ![](https://api.githubtrends.io/user/svg/intexpression/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 
 
