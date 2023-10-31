@@ -1,4 +1,4 @@
-![Alt text](java_wasv1Ncy1z.jpg)
+![Alt text](resources/cmd_EkjYj9vKS6.png)
 ### Hi there 👋, I am Intexpression
 
 
