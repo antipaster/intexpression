@@ -25,7 +25,7 @@ let me = new Intexpression("He" || "Him" || "His");
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=FFFFFF&center=false&vCenter=true&repeat=false&width=100&height=18&lines=+%7C%E3%80%81%E2%81%BB%E3%80%B5" align="right" alt="ascii-cat-3" />
         <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=1200&height=18&lines=%E3%81%98%E3%81%97%CB%8D%2C)%E3%83%8E" align="right" alt="ascii-cat-4" />
+        <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=100&height=18&lines=%E3%81%98%E3%81%97%CB%8D%2C)%E3%83%8E" align="right" alt="ascii-cat-4" />
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=100&height=18&lines=meow+~" align="right" alt="ascii-cat-5" />
 </p>
