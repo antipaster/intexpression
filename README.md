@@ -16,6 +16,8 @@ let me = new Intexpression("He" || "Him" || "His");
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,aws,gcp,azure,react,vue,cs,cloudflare,idea,js,maven,nextjs,py&theme=dark)](https://skillicons.dev)
 
 
+<img src="https://spotify-readme-zeta-mocha.vercel.app/api?theme=dark" alt="Current Spotify Song">
+
 <p align="right">
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&vCenter=true&repeat=false&width=200&height=18&lines=.%E2%95%B1%7C%60" align="right" alt="ascii-cat-1" />
         <br>
@@ -27,9 +29,6 @@ let me = new Intexpression("He" || "Him" || "His");
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&vCenter=true&repeat=false&width=200&height=18&lines=meow+~" align="right" alt="ascii-cat-5" />
 </p>
-
-<img src="https://spotify-readme-zeta-mocha.vercel.app/api?theme=dark" alt="Current Spotify Song">
-
 
 ![](https://komarev.com/ghpvc/?username=intexpression)
 [![wakatime](https://wakatime.com/badge/user/38b40c14-77d7-4b31-b4f2-cc058e4edc6f.svg)](https://wakatime.com)
