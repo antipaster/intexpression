@@ -18,7 +18,7 @@ let me = new Intexpression("He" || "Him" || "His");
 
 <img src="https://spotify-readme-zeta-mocha.vercel.app/api?theme=dark" alt="Current Spotify Song">
 
-<p align="right">
+<p align="left">
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&vCenter=true&repeat=false&width=200&height=18&lines=.%E2%95%B1%7C%60" align="right" alt="ascii-cat-1" />
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&center=false&vCenter=true&repeat=false&width=200&height=18&lines=(%60+++-++7" align="right" alt="ascii-cat-2" />
